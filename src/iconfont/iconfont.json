@@ -1,0 +1,44 @@
+{
+  "id": "1962338",
+  "name": "videoIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "886907",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "1159902",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1279433",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "1447738",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11177804",
+      "name": "暂停",
+      "font_class": "ziyuan",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
